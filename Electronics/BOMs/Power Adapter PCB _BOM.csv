@@ -1,0 +1,15 @@
+Qty, Value       , Device                     , Package             , Parts                     , Digikey                  , Description
+  1,             , 691216510003S              , 691216510003S       , PSU_IN                    , 732-691216510003S-ND     , "3 Position Wire to Board Terminal Block Horizontal with Board 0.200"" (5.08mm) Through Hole"
+  1,             , 6130XX11021_61300411021    , 61300411021         , POWER_SW                  , 732-5337-ND              , "Connector Header Through Hole 4 position 0.100"" (2.54mm)"
+  1,             , 6130XX21121_61300621121    , 61300621121         , ZIMA_PWR                  , 732-5295-ND              , "Connector Header Through Hole 6 position 0.100"" (2.54mm)"
+  1,             , 6130XX21121_61301421121    , 61301421121         , ZIMA_IO                   , 732-5298-ND              , "Connector Header Through Hole 14 position 0.100"" (2.54mm)"
+  4, 0.1uF       , C-US_CHIP-1206(3216-METRIC), CAPC3216X135        , "C1, C2, C3, C4"          , 399-C1206C104K5RACTUCT-ND, 0.1 µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric)
+  4, 10k         , R-US_CHIP-1206(3216-METRIC), RESC3216X70         , "R2, R4, R1, R3"          , 311-10.0KFRCT-ND         , "10 kOhms ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric)"
+  4, 10uF        , WCAP-ASLI_4X5.5            , WCAP-ASLI_4X5.5(DXL), "C5, C6, C7, C8"          , 732-8451-1-ND            , 10 µF 50 V Aluminum Electrolytic Capacitors Radial
+  2, 16V/10A     , PPTC_PTH                   , PTH                 , "F1, F2"                  , PTR016V1000-BK-ND        , Polymeric PTC Resettable Fuse 16V 10 A Ih Through Hole
+  4,             , 22-23-2031                 , 22-23-2031          , "X1, X2, X3, X4"          , WM4201-ND                , "Molex Connector Header Through Hole 3 position 0.100"" (2.54mm)"
+  2,             , 350211-1350211-1_TYC       , 350211-1_TYC        , "DRIVES_PWR1, DRIVES_PWR2", A1212-ND                 , "Molex Connector Header Through Hole 4 position 0.200"" (5.08mm)"
+  2, 40A/30V/10mΩ, MOSFET_PCH-MCU20P10        , TO-252/DPAK         , "Q2, Q4"                  , 3141-G40P03KCT-ND        , P-Channel 30 V 40A (Tc) 78W (Tc) Surface Mount TO-252
+  2, MMBT2222AL  , NPN_MMBT2222ALT1G_SOT23-BEC, SOT95P237X112-3N    , "Q1, Q3"                  , MMBT2222ALT1GOSCT-ND     , Bipolar (BJT) Transistor NPN 40 V 600 mA
+  1,             ,                            ,                     ,                           , 732-61300621821-ND       , "6 Position Receptacle Connector 0.100"" (2.54mm) "
+  1,             ,                            ,                     ,                           , 2057-RS2-14-G-ND         , "14 Position Receptacle Connector 0.100"" (2.54mm)"
