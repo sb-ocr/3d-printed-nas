@@ -7,7 +7,7 @@ Watch the build video ↓
 I was juggling too many small SSDs for backups, so I set out to build something more permanent.
 In this video, I walk you through the design and build of a custom NAS powered by the ZimaBoard — complete with a custom power adapter PCB and tool less drive trays.
 
-Build instructions → (coming soon)
+Build instructions → [Instructables](https://www.instructables.com/3D-Printed-Home-Server-6-Bay-ZimaBoard-NAS/)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
